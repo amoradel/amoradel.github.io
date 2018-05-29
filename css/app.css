@@ -1,0 +1,49 @@
+header.banner{
+    background-color: #0000009e !important;
+}
+
+a.banner{
+    color: white;   
+}
+
+li.list{
+    padding-bottom: 20px;
+    line-height: 4.2rem;
+}
+
+div.title{
+    background-color: #0000009e;
+    /* border-radius: 17px; */
+    margin-left: 5%;
+    width: 55rem;
+}
+
+.pasos li span {
+    font-size: 6.4rem;
+    margin: 0 auto .8rem;
+}
+
+.pasos li span {
+    font-size: 6.4rem;
+    margin: 0 auto .8rem;
+}
+
+.pasos li span {
+    font-size: 6.4rem;
+    margin: 0 auto .8rem;
+}
+
+.pasos li h2{
+    margin: auto;
+    text-align: center;
+    margin-top: 1.8rem;
+}
+
+.specs_2 li:after {
+    background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), color-stop(50%, rgba(255, 255, 255, 0.25)), to(rgba(0, 20, 80, 0))) !important;
+    background: linear-gradient(to right, rgba(0, 20, 80, 0) 0%, rgba(255, 255, 255, 0.25) 50%, rgba(0, 20, 80, 0) 100%) !important;
+}
+
+.t_center li h2{
+    text-align: center;
+}
